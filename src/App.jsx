@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Header } from './components/Header'
 import { Sidebar } from './components/Sidebar'
-import { Post } from './Post'
+import { Post } from './components/Post'
 
 import styles from './App.module.css'
 import './global.css'
